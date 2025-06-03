@@ -1,10 +1,10 @@
-# The Snowden Archive
+# O Arquivo Snowden
 
-This repository is a complete collection of all documents leaked by former National Security Agency contractor and whistleblower Edward Snowden that have subsequently been published by news media around the world.
+Este repositório é uma coleção completa de todos os documentos vazados pelo ex-funcionário da Agência de Segurança Nacional (NSA) e denunciante Edward Snowden, que foram posteriormente publicados pela mídia em todo o mundo.
 
-If you notice something is missing or wrong, please file an issue or tweet at [@iamcryptoki](https://twitter.com/iamcryptoki).
+Se notar que algo está faltando ou errado, registre uma ocorrência
 
-## Timeline of Revelations (2013-2018)
+## Linha do Tempo das Revelações (2013-2018)
 
 ### 2013
 
